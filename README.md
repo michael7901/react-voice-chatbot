@@ -61,7 +61,7 @@ Users can initiate a conversation, speak commands, or ask questions in multiple 
 clone locally:
 
 ```
-$ git clone git@github.com:miguelmontanez/voice-call-chatbot.git
+$ git clone git@github.com:michael7901/voice-call-chatbot.git
 ```
 
 Then, run the development server:
