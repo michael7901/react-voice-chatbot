@@ -2,7 +2,7 @@ import Image from 'next/image';
 import GithubLogo from '../public/assets/github.svg';
 export function GithubLink() {
   const handleClick = () => {
-    window?.open('https://github.com/miguelmontanez/voice-call-chatbot', '_blank')?.focus();
+    window?.open('https://github.com/michael7901/react-voice-chatbot', '_blank')?.focus();
   };
   return (
     <div className="mx-1">
